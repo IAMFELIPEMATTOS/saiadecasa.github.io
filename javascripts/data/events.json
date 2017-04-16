@@ -11,6 +11,30 @@
         "longitude": -45.883783
       },
       "link": "https://www.eventick.com.br/frontinvale2017"
+    },
+    {
+      "titulo": "JS Experience'2017",
+      "dataInicio": "2017-06-23",
+      "dataFim": "2017-06-23",
+      "local": "Hotel Pullman",
+      "endereco": "Rua Olimpíadas, 205, Vila Olímpia, São Paulo – SP",
+      "localizacao": {
+        "latitude": -23.5956615,
+        "longitude": -46.6870368
+      },
+      "link": "http://jsexperience2017.imasters.com.br/"
+    },
+     {
+      "titulo": "Roadsec Natal",
+      "dataInicio": "2017-05-06",
+      "dataFim": "2017-05-06",
+      "local": "INSTITUTO METRÓPOLE DIGITAL (IMD) DA UFRN",
+      "endereco": "Campus Universitário UFRN: Av. Senador Salgado Filho, 3000, Lagoa Nova, Natal/RN",
+      "localizacao": {
+        "latitude": -5.8362625,
+        "longitude": -35.2085933
+      },
+      "link": "http://roadsec.com.br/natal2017/"
     }
   ]
 }
